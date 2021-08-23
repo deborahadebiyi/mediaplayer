@@ -1,0 +1,24 @@
+1. Create a diagram based on the business requirements
+- SDLC
+- creating user stories from the business reqs
+- domain modelling
+- use case diagram
+- activity diagram
+- data modelling 
+
+Evidence
+- data structures
+    - arrays of songs (playlists)
+- application code
+- UI design using figma or adobe xd
+
+Writing unit tests
+- TDD ?
+
+Documentation
+- comprehensive README
+- document exploring assumptions and limitations
+- creating a user guide
+- documentation for further development, improvements and possible maintenance
+    - ability to connect with other devices (portable speakers)
+

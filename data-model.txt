@@ -1,0 +1,34 @@
+{
+    id: '2af15171-4773-4246-bdd9-66ab7c3dd828',
+    name: 'My favourites',
+    shuffle: true,
+    sortOrder: { field: 'addedAt', order: 'asc' },
+    items: [
+        { id: '1ac400d2-289c-45de-aac3-8717058e9736', addedAt: '2021-08-18T14:42:55.707Z' },
+        { id: '1ac400d2-289c-45de-aac3-8717058e9736', addedAt: '2021-08-18T14:42:55.707Z' },
+        { id: '1ac400d2-289c-45de-aac3-8717058e9736', addedAt: '2021-08-18T14:42:55.707Z' },
+    ]
+}
+
+{
+    id: '97140487-f56c-4a9c-a124-f284e4c3c9c8',
+    title: 'Not afraid',
+    url: 'http://www.lukeduncan.co/oslo.mp3',
+    artist: 'Eminem',
+    duration: 120
+}
+
+
+Back-end Endpoints
+
+GET /playlists
+GET /playlist/:id
+GET /songs
+GET /song/:id
+
+Example: https://codepen.io/luke__duncan/pen/dpZVOr
+Songs: https://www.bensound.com/royalty-free-music/track/ukulele
+
+Task:
+Create backend and save some royalty free songs locally
+Create a database to store songs and playlists 
